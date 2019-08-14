@@ -3,10 +3,14 @@ require "php/header.php";
 ?>
 <!--###########body#############-->
     <main>
-<p>this is the body</p>
+        <div class="wrapper-main">
+            <section class="section-default">
+                <p>You are logged out!</p>
+                <p>You are logged in</p>
+            </section>
+        </div>
     </main>
-
-
+    
 
 
 <!--##########footer#############-->
